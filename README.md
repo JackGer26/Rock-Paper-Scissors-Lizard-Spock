@@ -2,7 +2,7 @@
 
 This is a full-stack web application developed as a collaborative mini-project that implements the classic Rock Paper Scissors game with the added complexity of Lizard and Spock (popularized by The Big Bang Theory). Players can make their choice by clicking buttons, and the server responds with its own choice and determines the winner.
 
-**Link currently unavailable:** [Add your deployed link here]
+**Link to Project:** https://rock-paper-lizard-9884d45a57bc.herokuapp.com/
 
 ## How It's Made:
 
