@@ -7,6 +7,11 @@ document.querySelectorAll('.choice-btn').forEach(button => {
     // Get player's choice from the clicked button
     const playerChoice = this.getAttribute('data-choice');
     
+    // Show loading state immediately
+    document.getElementById('result').textContent = 'Making your move...';
+    document.getElementById('serverChoice').textContent = 'Thinking...';
+    document.getElementById('winner').textContent = '';
+    
     // Send player choice to server
     fetch(`/api?player=${playerChoice}`)
       .then(response => response.json()) // Convert response to JSON
