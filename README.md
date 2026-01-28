@@ -45,3 +45,9 @@ The project emphasized the value of using native Node.js modules for simple appl
 API design became crucial in our collaborative development process. Creating a simple, RESTful endpoint (`/api?player=rock`) that returns consistent JSON responses made the frontend implementation straightforward for all team members. Our API's predictable structure with `player`, `server`, and `result` properties allowed for clean, readable frontend code.
 
 In summary, this mini-project provided our team with practical experience in client-server communication, RESTful API design, asynchronous JavaScript with fetch requests, and the importance of proper error handling in full-stack applications. The modular approach to game logic and clear separation between presentation and business logic created a maintainable and extensible codebase that all team members could easily understand and contribute to.
+
+## 🔗 Examples of Other Work
+
+- **[Binary Upload Boom](https://github.com/JackGer26/binary-upload-boom)** - Full-stack social media application with authentication and image uploads
+- **[Movie Watchlist Tracker](https://github.com/JackGer26/MVC-Passport-Movie-App)** - MVC application with Passport.js authentication and MongoDB
+- **[Green Cars Airport Transfers](https://github.com/JackGer26/Green-Cars-Airport-Transfers)** - Professional business website built for a real client
